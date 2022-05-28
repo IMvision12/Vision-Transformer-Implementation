@@ -8,3 +8,11 @@ The Vision Transformer, or ViT, is a model for image classification that employs
 <p float="left">
   <img src="https://www.deepdetect.com/img/blog_01_vit_arch.png" width="680" height="500" />
 </p>
+
+
+### Creating Patches : 
+
+<p float="left">
+  <img src="https://github.com/IMvision12/Vision-Transformer-Implementation/blob/main/images/1.PNG" width="450" />
+  <img src="https://github.com/IMvision12/Vision-Transformer-Implementation/blob/main/images/1.PNG" width="450" />
+</p>
